@@ -19,7 +19,7 @@ function NewsItem({
           <small>
             <span style={{ fontWeight: "800", cursor: "pointer" }}>
               <a href={url} style={{ textDecoration: "none", color: "black" }}>
-                shot
+                article
               </a>
             </span>{" "}
             by {author} / {publishedAt = new Date().toGMTString()}
