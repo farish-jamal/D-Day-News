@@ -1,0 +1,18 @@
+.nav{
+    height: 68px;
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(46, 46, 46, 0.623);
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+}
+.nav__img img{
+    width: 70px;
+}
+.nav__icon{
+    flex: 0.48;
+}
