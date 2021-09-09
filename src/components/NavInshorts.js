@@ -11,7 +11,7 @@ function NavInshorts({setCategory}) {
            <div className="nav__img">
                <img src="https://www.freeiconspng.com/thumbs/news-icon/news-icon-19.png" alt="Logo" />
            </div>
-               <h2 style={{marginLeft: '10px'}}>D-Day News</h2>
+               <h2 className='heading'>D-Day News</h2>
         </div>
     )
 }
