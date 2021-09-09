@@ -9,8 +9,9 @@ function NavInshorts({setCategory}) {
                <Hamburger setCategory={setCategory}/>
            </div>
            <div className="nav__img">
-               <img src="https://aroundsketch.github.io/Apple-App-Icons/App%20Icon/Apple/News/@PNG.png" alt="Logo" />
+               <img src="https://www.freeiconspng.com/thumbs/news-icon/news-icon-19.png" alt="Logo" />
            </div>
+               <h2 style={{marginLeft: '10px'}}>D-Day News</h2>
         </div>
     )
 }
