@@ -14,7 +14,7 @@ It is a news App which provides news in 40 words and it redirects you to the ful
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
-| `category` | `string` | you need to provide categoyy|
+| `category` | `string` | you need to provide category|
 
 #### Get item
 
@@ -26,8 +26,28 @@ It is a news App which provides news in 40 words and it redirects you to the ful
 | :-------- | :------- | :-------------------------------- |
 | `country code`      | `string` | country code to fetch data |
 
+| Country | Country Code     |
+| :-------- | :------- |
+| India     | `in` |
+| USA     | `us` |
+| Australia    | `au` |
+| Russia    | `ru` |
+| France    | `fr` |
+| United Kingdom    | `gb` |
+
+
+
 
   
+## Available Categoty
+- business
+- entertainment
+- general
+- health
+- science
+- sports
+- technology
+
 ## Authors
 
 - [@farishjamal1](https://github.com/farishjamal1)
@@ -49,5 +69,7 @@ Install PW app using install button on top right on your desktop
 - Redirects to the source of news.
 - Gives you details news information.
 - Easy to use.
+
+  
 
   
