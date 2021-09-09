@@ -11,20 +11,21 @@
     z-index: 1;
 }
 .nav__img img{
-    width: 60px;
+    width: 50px;
 }
 .nav__icon{
     flex: 0.54;
 }
 .heading{
     margin-left: 10px;
+    font-size: 1.5rem;
 }
 
 @media only screen and (max-width: 700px) {
     .heading{
-        font-size: 1.2rem;
+        font-size: 1rem;
     }
     .nav__img img{
-        width: 40px;
+        width: 30px;
     }
 }
